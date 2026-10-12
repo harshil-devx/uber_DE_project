@@ -1,17 +1,17 @@
 [
   {
     "city_id": 1,
-    "city": "New York",
+    "city": "New Jersy",
     "state": "NY",
     "region": "Northeast",
-    "updated_at": "2026-10-12T07:23:34.737+00:00"
+    "updated_at": "2026-10-12T11:23:34.737+00:00"
   },
   {
     "city_id": 2,
-    "city": "Los Angelas",
+    "city": "Lose your mind",
     "state": "CA",
     "region": "West",
-    "updated_at": "2026-10-12T07:23:34.737+00:00"
+    "updated_at": "2026-10-12T11:45:34.737+00:00"
   },
   {
     "city_id": 3,
